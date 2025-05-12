@@ -116,3 +116,14 @@ Wireframes are composed of several key elements that play an important role in s
 ### 5. **Reducing Development Time and Costs**
    - **Minimizing Revisions**: Since wireframes define the user interface structure early on, it helps in reducing the need for extensive revisions later in the development phase. A solid wireframe acts as a blueprint, reducing misunderstandings between design and development teams.
    - **Example**: If the layout of a mobile app screen is clearly defined in a wireframe, developers can start coding the interface without needing to make constant adjustments based on unclear design specifications.
+
+## Real-World Scenario: Identifying Usability Issues with Wireframing
+
+### Scenario:
+During the wireframing phase of the app, the design team created low-fidelity wireframes for the main dashboard, the transaction page, and the settings page. When reviewing the wireframes, a significant issue was identified: the placement of the **"Send Money"** button was inconsistent across different screens. On the dashboard, the button was placed at the top right, while on the transaction page, it was placed at the bottom, requiring the user to scroll down unnecessarily. This inconsistency could confuse users and negatively affect their experience.
+
+### Resolution:
+By using wireframes to illustrate this issue, the design team was able to quickly resolve the inconsistency. They decided to place the **"Send Money"** button consistently in the same location across all screens, at the top center, making it easy to locate and interact with. Additionally, they included an icon next to the text to further improve visibility and user understanding.
+
+### Impact on the Final Product:
+This change resulted in a more intuitive layout and enhanced user experience. The consistent button placement allowed users to easily navigate the app, increasing the overall efficiency of completing transactions. Furthermore, by identifying and resolving this issue in the wireframing phase, the development team was able to avoid costly revisions and rework during the coding phase, saving both time and resources.
