@@ -26,3 +26,27 @@ Wireframes are composed of several key elements that play an important role in s
 ### 4. Functionality
    - Functionality in a wireframe refers to the interactive elements that provide a way for users to engage with the design. These include buttons, form fields, and interactive features.
    - Example: In an online booking system wireframe, functionality would include form fields for entering travel dates and a "Search" button that triggers a search for available flights. This allows the user to interact with the design and complete tasks.
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+- Description: Basic sketches or diagrams with minimal detail.
+- Purpose: Quickly visualize layout and user flow.
+- Tools: Paper, whiteboards, or simple digital tools.
+- When to Use: Early stages of design for brainstorming and gathering feedback.
+- Example: A rough sketch of a mobile app screen with placeholders for images and text.
+
+### High-Fidelity Wireframes
+- Description: Detailed and polished representations closely resembling the final product.
+- Purpose: Showcase design elements like typography, colors, and images.
+- Tools: Advanced design tools like Figma or Adobe XD.
+- When to Use: Later stages of design for stakeholder presentations and usability testing.
+- Example: A fully designed mobile app screen with real content, colors, and interactive elements.
+
+### Airbnb Figma Wireframe Analysis
+- Fidelity Level: High-Fidelity
+- Characteristics:
+  - Detailed design elements
+  - Real content and images
+  - Interactive components
+- Purpose: Serve as a polished representation for user testing and stakeholder presentations.
